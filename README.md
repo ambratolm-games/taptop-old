@@ -1,5 +1,7 @@
 # 🎮 TapTop (Old)
 
+<img src="./screenshot.gif?raw=true" alt="Screenshot" align="right">
+
 [![Android](https://img.shields.io/badge/Android-blue?logo=android)](https://github.com/topics/android)
 [![Clickteam Fusion](https://img.shields.io/badge/Clickteam%20Fusion-2.5-blue?logo=cplusplus)](https://github.com/topics/clickteam-fusion)
 
@@ -9,8 +11,6 @@ This is a rework of the first classic TapTop. It features :
 - Improved Graphics and New animations.
 - New and Improved Gameplay Experience.
 - Improved Speed and Performances.
-
-![Screenshot](./screenshot.gif?raw=true)
 
 ## ▶️ Gameplay
 
